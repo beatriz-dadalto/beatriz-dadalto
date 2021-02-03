@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-%230080ff)](https://www.linkedin.com/in/biacoelho/)
 -->
 
-:dart: Meus estudos e interesses:
-- Java / Spring Boot;
+:dart: Meus estudos e interesses
+- Java / Spring Boot
 - ReactJS / React Native
 - Dart / Flutter
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - Sou mais produtiva a noite e principalmente na madrugada;
 - Indico o podcast sobre produtividade e negócios [ResumoCast](https://www.resumocast.com.br);
 - Meu maior aprendizado em trabalho de equipe foi praticando esporte e fazendo parte do time 🏉 [Alto Tietê Rugby](https://www.instagram.com/altotieterugby);
-- Estou escrevendo esses coisas sobre mim ouvindo uma playlist tão gostosa de Hard Rock 🤘. aaaaa 🥰
+- Estou escrevendo essas coisas sobre mim ouvindo uma playlist tão gostosa de Hard Rock 🤘. aaaaa 🥰
 
 ⚡ PlaysList para ouvir programando:
 
