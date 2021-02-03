@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - Atualmente estou participando do bootcamp FullStack da [@DevSuperior](https://devsuperior.com.br);
 - Sou mais **produtiva** a noite e principalmente na madrugada;
 - Indico o podcast sobre produtividade e negócios [ResumoCast](https://www.resumocast.com.br);
-- Meu maior aprendizado sobre **trabalho de equipe** foi praticando esporte e fazendo parte do time 🏉 [Alto Tietê Rugby](https://www.instagram.com/altotieterugby);
+- Meu maior aprendizado sobre **trabalho em equipe** foi praticando esporte e fazendo parte do time 🏉 [Alto Tietê Rugby](https://www.instagram.com/altotieterugby);
 
 
 ⚡ PlaysList para ouvir programando:
