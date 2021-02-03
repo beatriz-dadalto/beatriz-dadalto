@@ -23,17 +23,16 @@ Here are some ideas to get you started:
 - Java / Spring Boot;
 - ReactJS / React Native
 - Dart / Flutter
-- UI Design
 
 
-:pizza: Curiosidades:
+💎 Curiosidades
 
-- 6° semestre de Análise e Desenvolvimento de Sistemas - FATEC MC;
+- 6° semestre de Análise e Desenvolvimento de Sistemas - FATEC Mogi das Cruzes;
+- Atualmente estou participando do bootcamp FullStack da [@DevSuperior](https://devsuperior.com.br);
 - Sou mais produtiva a noite e principalmente na madrugada;
-- Assisto vídeos sobre empreendedorismo. [ResumoCast](https://www.resumocast.com.br/) é bem daora;
-- Sou introvertida;
-- Signo: gêmeos;
-- Música: Rock;
+- Indico o podcast sobre produtividade e negócios [ResumoCast](https://www.resumocast.com.br);
+- Meu maior aprendizado em trabalho de equipe foi praticando esporte e fazendo parte do time 🏉 [Alto Tietê Rugby](https://www.instagram.com/altotieterugby);
+- Estou escrevendo esses coisas sobre mim ouvindo uma playlist tão gostosa de Hard Rock 🤘. aaaaa 🥰
 
 ⚡ PlaysList para ouvir programando:
 
@@ -42,6 +41,8 @@ Here are some ideas to get you started:
 
 [![Spotify Badge](https://img.shields.io/badge/Vampire%20Party-Spotify-sucess)](https://open.spotify.com/playlist/16aetRuek20SdGN5L8Gi41?si=Vf5jJ0KeQT-KBj86O0kKYA)
 
-💬 Redes Socias / Contato:
+👉 Entre em contato.
 
-[![Linktr.ee Badge](https://img.shields.io/badge/-Linktree-ff69b4)](https://linktr.ee/biacoelho)
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biacoelho)](https://www.linkedin.com/in/biacoelho)
