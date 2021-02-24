@@ -9,6 +9,7 @@
 3. Curto e indico o podcast [ResumoCast](https://www.resumocast.com.br) que fala desde empreendedorismo a desenvolvimento pessoal;
 4. Meu maior aprendizado sobre **trabalho em equipe** foi praticando esporte, fazendo parte do time [Alto Tietê Rugby](https://www.instagram.com/altotieterugby) 🏉;
 
+<br />
 
 PlaysLists para devs **roqueiros** ouvirem programando :metal:
 
@@ -23,7 +24,7 @@ PlaysLists para devs **roqueiros** ouvirem programando :metal:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biacoelho)](https://www.linkedin.com/in/biacoelho)
 
-<br>
+<br />
 
 ### As linguagens topezera desse perfil :rainbow:
 
