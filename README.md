@@ -20,3 +20,9 @@ PlaysLists para devs **roqueiros** ouvirem programando :metal:
 **Entre em contato!** :point_down:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biacoelho)](https://www.linkedin.com/in/biacoelho)
+
+<br>
+
+### As linguagens topezera desse perfil :rainbow:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biacoelho&layout=compact&theme=dark&hide_border=true&cache_seconds=2000)](https://github.com/biacoelho/github-readme-stats)
