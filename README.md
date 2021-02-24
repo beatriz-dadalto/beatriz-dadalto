@@ -1,21 +1,16 @@
 <a href="https://linktr.ee/biacoelho"><img src="https://i.imgur.com/Q6jYDIR.png" title="Visitar Redes Sociais" /></a>
 
-<!--
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-FF0000)](https://www.youtube.com/user/BeatrizDadalto25/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-%230080ff)](https://www.linkedin.com/in/biacoelho/)
--->
 
-
-Curiosidades :unlock:
+### Curiosidades :unlock:
 
 
 1. Atualmente estou estudando o bootcamp Full Stack da [@DevSuperior](https://github.com/devsuperior) **[Java/Spring | ReactJS | React Native | Testes]**;
 2. Sou mais **produtiva** a noite e na madrugada;
 3. Curto e indico o podcast [ResumoCast](https://www.resumocast.com.br) que fala desde empreendedorismo a desenvolvimento pessoal;
-4. Meu maior aprendizado sobre **trabalho em equipe** foi praticando esporte fazendo parte do time [Alto Tietê Rugby](https://www.instagram.com/altotieterugby) 🏉;
+4. Meu maior aprendizado sobre **trabalho em equipe** foi praticando esporte, fazendo parte do time [Alto Tietê Rugby](https://www.instagram.com/altotieterugby) 🏉;
 
 
-PlaysList para devs **roqueiros** ouvirem programando :metal:
+PlaysLists para devs **roqueiros** ouvirem programando :metal:
 
 [![Spotify Badge](https://img.shields.io/badge/Instrumental%20Madness-Spotify-sucess)](https://open.spotify.com/playlist/37i9dQZF1DWUk47CLxI4Uo?si=KC8xEY-XQ52UUYx0iqBcFA)
 
