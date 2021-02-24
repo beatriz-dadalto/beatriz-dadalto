@@ -4,7 +4,7 @@
 ### Curiosidades :unlock:
 
 
-1. Atualmente estou estudando o bootcamp Full Stack da [@DevSuperior](https://github.com/devsuperior) **[Java/Spring | ReactJS | React Native | Testes]**;
+1. Atualmente estou estudando o bootcamp Full Stack da [@DevSuperior](https://github.com/devsuperior) **[Java / Spring Boot | ReactJS | React Native | Testes]**;
 2. Sou mais **produtiva** a noite e na madrugada;
 3. Curto e indico o podcast [ResumoCast](https://www.resumocast.com.br) que fala desde empreendedorismo a desenvolvimento pessoal;
 4. Meu maior aprendizado sobre **trabalho em equipe** foi praticando esporte, fazendo parte do time [Alto Tietê Rugby](https://www.instagram.com/altotieterugby) 🏉;
