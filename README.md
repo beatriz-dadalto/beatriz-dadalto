@@ -17,6 +17,8 @@ PlaysLists para devs **roqueiros** ouvirem programando :metal:
 
 [![Spotify Badge](https://img.shields.io/badge/Vampire%20Party-Spotify-sucess)](https://open.spotify.com/playlist/16aetRuek20SdGN5L8Gi41?si=Vf5jJ0KeQT-KBj86O0kKYA)
 
+<br />
+
 **Entre em contato!** :point_down:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biacoelho)](https://www.linkedin.com/in/biacoelho)
@@ -25,4 +27,4 @@ PlaysLists para devs **roqueiros** ouvirem programando :metal:
 
 ### As linguagens topezera desse perfil :rainbow:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biacoelho&layout=compact&theme=dark&hide_border=true&cache_seconds=2000)](https://github.com/biacoelho/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biacoelho&layout=compact&theme=dark&hide_border=true&cache_seconds=2000" title="Linguagens mais utilizadas" alt="Linguagens mais utilizadas" />
