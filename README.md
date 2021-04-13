@@ -1,5 +1,3 @@
-<a href="https://linktr.ee/biacoelho"><img src="https://i.imgur.com/pYy0sC2.png" title="Visitar Redes Sociais" alt="capa /"></a>
-
 <br />
 
 ### :rainbow: As Linguagens Topzera Desse Perfil
@@ -8,12 +6,10 @@
 
 <br />
 
-### :loudspeaker: :books: :mortar_board: :gem: :dart: :bulb:
+### :books: :mortar_board: :dart:
 
 - 6º semestre de Análise e Desenvolvimento de Sistemas - FATEC;
-- Estou estudando o bootcamp Full Stack da [@DevSuperior](https://github.com/devsuperior) **[Java / Spring Boot | ReactJS | React Native | Testes]**;
 - Sou mais **produtiva** a noite e na madrugada;
-- Meu maior aprendizado sobre **trabalho em equipe** foi praticando esporte, fazendo parte do time [Alto Tietê Rugby](https://www.instagram.com/altotieterugby) :rugby_football:;
 
 <br />
 
