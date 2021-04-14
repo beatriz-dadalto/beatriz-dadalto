@@ -1,15 +1,14 @@
-<br />
-
-### :rainbow: As Linguagens Topzera Desse Perfil
+### As Linguagens Topzera Desse Perfil :rainbow:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biacoelho&layout=compact&theme=dark&hide_border=true&cache_seconds=2000" title="Linguagens mais utilizadas" alt="Linguagens mais utilizadas" />
 
 <br />
 
-### :books: :mortar_board: :dart:
+### Você se identifica? :pizza: :point_down:
 
-- 6º semestre de Análise e Desenvolvimento de Sistemas - FATEC;
 - Sou mais **produtiva** a noite e na madrugada;
+- Sobre **empreendedorismo e desenvolvimento pessoal** curto e indico <a href="https://www.youtube.com/ResumoCast" target="_blank" title="ResumoCast">ResumoCast</a>;
+- O esporte me ensinou o verdadeiro significado de **trabalho em equipe**;
 
 <br />
 
