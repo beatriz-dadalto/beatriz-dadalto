@@ -1,10 +1,11 @@
-### As Linguagens Topzera Desse Perfil :rainbow:
+### :rainbow: As Linguagens Topzera Desse Perfil
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biacoelho&layout=compact&theme=dark&hide_border=true&cache_seconds=2000" title="Linguagens mais utilizadas" alt="Linguagens mais utilizadas" />
 
 <br />
 
-### Você se identifica? :pizza: :point_down:
+### :pizza: :point_down: Você se identifica?
+
 
 - Sou mais **produtiva** a noite e na madrugada;
 - Sobre **empreendedorismo e desenvolvimento pessoal** curto e indico <a href="https://www.youtube.com/ResumoCast" target="_blank" title="ResumoCast">ResumoCast</a>;
