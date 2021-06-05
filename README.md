@@ -4,7 +4,7 @@
 
 <br />
 
-### :pizza: :point_down: Você se identifica?
+### :point_down: Você se identifica?
 
 
 - Sou mais **produtiva** a noite e na madrugada;
@@ -28,5 +28,5 @@
 
 <br />
 
-:mortar_board: Análise e Desensolvimento de Sistema - FATEC
+:mortar_board: Análise e Desensolvimento de Sistemas - FATEC
 
