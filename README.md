@@ -4,14 +4,21 @@
 
 <br />
 
-### :point_down: Você se identifica?
+
+### :checkered_flag: Você se identifica?
 
 
 - Sou mais **produtiva** a noite e na madrugada;
-- Sobre **empreendedorismo e desenvolvimento pessoal** curto e indico <a href="https://www.youtube.com/ResumoCast" target="_blank" title="ResumoCast">ResumoCast</a>;
+- **React** é o que eu mais utilizo no front-end;
+- Estudo back-end com **Java/Spring** e as vezes **NodeJs**;
+- Sobre **empreendedorismo** curto e indico <a href="https://www.youtube.com/ResumoCast" target="_blank" title="ResumoCast">ResumoCast</a>;
 - O esporte me ensinou o verdadeiro significado de **trabalho em equipe**;
 
 <br />
+
+### :trollface: Lembre-se: Foco, Força e Fé
+
+<a href="https://imgur.com/JcefkJX"><img src="https://i.imgur.com/JcefkJX.jpg" title="source: imgur.com" /></a>
 
 
 <br />
