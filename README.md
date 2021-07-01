@@ -4,13 +4,6 @@
 
 <br />
 
-
-### :checkered_flag: Você se identifica?
-
-
-- Sou mais **produtiva** a noite e na madrugada;
-- **React** é o que eu mais utilizo no front-end;
-- Estudo back-end com **Java/Spring** e as vezes **NodeJs**;
 - Sobre **empreendedorismo** curto e indico <a href="https://www.youtube.com/ResumoCast" target="_blank" title="ResumoCast">ResumoCast</a>;
 - O esporte me ensinou o verdadeiro significado de **trabalho em equipe**;
 
