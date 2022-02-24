@@ -1,6 +1,6 @@
 ### :rainbow: As Linguagens Topzera Desse Perfil
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biacoelho&layout=compact&theme=light&hide_border=true&cache_seconds=2000" title="Linguagens mais utilizadas" alt="Linguagens mais utilizadas" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizdalto&layout=compact&theme=light&hide_border=true&cache_seconds=2000" title="Linguagens mais utilizadas" alt="Linguagens mais utilizadas" />
 
 <br />
 
@@ -18,7 +18,7 @@
 
 :point_down: **Entre em contato!**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biacoelho)](https://www.linkedin.com/in/biacoelho)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatrizdalto)](https://www.linkedin.com/in/beatrizdalto)
 
 <br />
 
