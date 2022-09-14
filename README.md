@@ -4,8 +4,6 @@
 
 <br />
 
-- Sobre **empreendedorismo** curto e indico <a href="https://www.youtube.com/ResumoCast" target="_blank" title="ResumoCast">ResumoCast</a>;
-- O esporte me ensinou o verdadeiro significado de **trabalho em equipe**;
 
 <br />
 
