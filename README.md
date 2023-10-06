@@ -1,6 +1,6 @@
 
-### Hi, I'm Beatriz Dadalto.
-- **In addition to my professional life, I like rock music and sports.**
+**Welcome, I'm Beatriz Dadalto.**
+- **In addition to my professional life as a developer, I like rock music and sports, and I love summer.**
 
 <br >
 
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-CC4AA4?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
