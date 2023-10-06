@@ -29,5 +29,3 @@
 
 <br />
 
-:mortar_board: Análise e Desensolvimento de Sistemas - FATEC
-
