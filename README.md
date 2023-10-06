@@ -1,9 +1,16 @@
+
 ### Hi, I'm Beatriz Dadalto.
-<br >
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz-dadalto&layout=compact&theme=radical" title="Linguagens mais utilizadas" alt="Linguagens mais utilizadas" />
+- **In addition to my professional life, I like rock music and sports.**
 
 <br >
 
+> [Playlist on Spotify for programming](https://open.spotify.com/playlist/48kGEIA6YHFJiwj9zl5VkM?si=9079c7f305dc4f6a)
+> 
+> <a href="https://open.spotify.com/playlist/48kGEIA6YHFJiwj9zl5VkM?si=9079c7f305dc4f6a" target="_blank"> <img height="180em" src="https://yt3.googleusercontent.com/DssEjr0MEDi8YituDiruLFY_exxnadF9AZUoXp3QcsTJDxHw9qOkRW-r8DhIqk7OslALYb3kyA=w2560-h1066-p-l90-rj" title="Playlist on Spotify for programming" alt="Playlist on Spotify for programming" background-color="green"/></a>
+
+<br >
+
+**Hard Skills**
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
 <!-- some badges: https://dev.to/envoy_/150-badges-for-github-pnk -->
@@ -21,7 +28,11 @@
 
 <br />
 
+**Top Programming Languages I Work and Study**
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz-dadalto&layout=compact&theme=radical" title="Linguagens mais utilizadas" alt="Linguagens mais utilizadas" />
+
+<br />
 
 :point_down: **Contact Me!**
 
