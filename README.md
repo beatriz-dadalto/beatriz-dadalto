@@ -6,7 +6,7 @@
 
 > [Playlist on Spotify for programming](https://open.spotify.com/playlist/48kGEIA6YHFJiwj9zl5VkM?si=9079c7f305dc4f6a)
 > 
-> <a href="https://open.spotify.com/playlist/48kGEIA6YHFJiwj9zl5VkM?si=9079c7f305dc4f6a" target="_blank"> <img height="180em" src="https://yt3.googleusercontent.com/DssEjr0MEDi8YituDiruLFY_exxnadF9AZUoXp3QcsTJDxHw9qOkRW-r8DhIqk7OslALYb3kyA=w2560-h1066-p-l90-rj" title="Playlist on Spotify for programming" alt="Playlist on Spotify for programming" background-color="green"/></a>
+<a href="https://open.spotify.com/playlist/48kGEIA6YHFJiwj9zl5VkM?si=9079c7f305dc4f6a" target="_blank"> <img height="180em" src="https://yt3.googleusercontent.com/DssEjr0MEDi8YituDiruLFY_exxnadF9AZUoXp3QcsTJDxHw9qOkRW-r8DhIqk7OslALYb3kyA=w2560-h1066-p-l90-rj" title="Playlist on Spotify for programming" alt="Playlist on Spotify for programming"/></a>
 
 <br >
 
