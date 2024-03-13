@@ -1,25 +1,25 @@
 
 ### Welcome, I'm Beatriz Dadalto.
-- **In addition to my professional life as a developer, I like rock music and sports, and I love summer.**
+
+- **In addition to my professional life as a developer, I like rock music, sports and I love summer.**
+
 
 <br >
-
-> [Playlist on Spotify for programming](https://open.spotify.com/playlist/48kGEIA6YHFJiwj9zl5VkM?si=9079c7f305dc4f6a)
-> 
-<a href="https://open.spotify.com/playlist/48kGEIA6YHFJiwj9zl5VkM?si=9079c7f305dc4f6a" target="_blank"> <img height="180em" src="https://yt3.googleusercontent.com/DssEjr0MEDi8YituDiruLFY_exxnadF9AZUoXp3QcsTJDxHw9qOkRW-r8DhIqk7OslALYb3kyA=w2560-h1066-p-l90-rj" title="Playlist on Spotify for programming" alt="Playlist on Spotify for programming"/></a>
-
 <br >
 
-**Hard Skills**
+**Hard Skills as a Mobile Developer**
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
 <!-- some badges: https://dev.to/envoy_/150-badges-for-github-pnk -->
 
 <div>
+  <img src="https://img.shields.io/badge/React Native-8633FF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-2F80FC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-34AB54?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-6F56C1?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-CA33FF?&style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-FC9815?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FCCB2F?style=for-the-badge&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2494EC?style=for-the-badge&logo=Docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-CC4AA4?style=for-the-badge&logo=figma&logoColor=white" />
@@ -29,7 +29,7 @@
 
 <br />
 
-**Top Programming Languages I Work and Study**
+**Top Programming Languages I Work**
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz-dadalto&layout=compact&theme=radical" title="Linguagens mais utilizadas" alt="Linguagens mais utilizadas" />
 
