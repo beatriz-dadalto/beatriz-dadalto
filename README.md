@@ -1,13 +1,18 @@
 
-### Welcome, I'm Beatriz Dadalto.
+### Welcome, I'm Beatriz Dalti.
 
 - **In addition to my professional life as a developer, I like rock music, sports and I love summer.**
+<br />
+
+**WHAT IS MY EXPERIENCE?**
+  
+I have a degree in IT. I have been working for 3 years with software development for a company in the Financial Market. Developed Back-end with Java and SQL, Front-end with React and Typescript and Mobile/Applications with React Native. Therefore, I corrected errors and implemented new features in the Bank systems.
 
 
 <br >
 <br >
 
-**Hard Skills as a Mobile Developer**
+**Hard Skills as a Developer**
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
 <!-- some badges: https://dev.to/envoy_/150-badges-for-github-pnk -->
@@ -37,7 +42,7 @@
 
 :point_down: **Contact Me!**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-dadalto)](https://www.linkedin.com/in/beatriz-dadalto)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatrizdalti)](https://www.linkedin.com/in/beatrizdalti)
 
 <br />
 
