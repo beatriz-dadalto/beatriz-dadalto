@@ -1,5 +1,5 @@
 
-### Welcome, I'm Beatriz Dalti.
+### Welcome, I'm Beatriz Dadalto.
 
 - **In addition to my professional life as a developer, I like rock music, sports and I love summer.**
 <br />
