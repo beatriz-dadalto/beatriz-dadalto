@@ -42,7 +42,7 @@ I have a degree in IT. I have been working for 3 years with software development
 
 :point_down: **Contact Me!**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatrizdalti)](https://www.linkedin.com/in/beatrizdalti)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-dadalto)](https://www.linkedin.com/in/beatriz-dadalto)
 
 <br />
 
