@@ -4,7 +4,6 @@
 - Developer who loves rock music, summer vibes, my home, and my cats and dogs. 🐱🐶
 <br />
 
-Currently working with Flutter {💙} at MarketUp in São Paulo/SP - Brazil.
 
 <br />
 
