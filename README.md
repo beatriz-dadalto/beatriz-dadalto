@@ -1,13 +1,33 @@
 
-### Hey, I'm Beatriz Dadalto!
+### Oi, eu sou a Bia!
 
-- Developer who loves rock music, summer vibes, my home, and my cats and dogs. 🐱🐶
+#### Sobre mim
+
+- Ex-jogadora de Rugby pelo Alto Tietê Rugby - lá aprendi trabalho em equipe, responsabilidade e disciplina, valores que carrego para a TI.
+- Já cursei Educação Física e cheguei a dar aulas para crianças.
+- Também cursei Design de Moda e, enquanto aprendia a fazer roupas, vendia as peças no Mercado Livre. Foi uma experiência prática com empreendedorismo e marketing: lidar com clientes, montar anúncios, responder dúvidas, precificar, testar, errar, ajustar e tentar de novo. Essa vivência me ensinou a ser mais criativa, autônoma e focada em resultados.
+
+#### Alguns valores que me definem: 
+
+- **Curiosidade, coragem e adaptabilidade.**
+- Gosto de desafios, de aprender e de trabalhar com gente. A TI é onde encontrei um espaço para juntar raciocínio lógico, criatividade e vontade de construir coisas que façam sentido.
+
+#### Fora do trabalho, tenho dois sonhos:<br />
+1. Conhecer cangurus na Austrália. (amo animais e a natureza)
+2. Ir ao Wacken - maior festival de heavy metal do mundo na Alemanha (estou aprendendo alemão por causa disso).
 <br />
 
+#### Experiências
+
+Tenho 2 anos de experiência como desenvolvedora Mobile em aplicações complexas do setor financeiro (compliance, transações de alto valor, LGPD, regras de negócio) e SaaS empresarial (gestão financeira, PDV, vendas, emissão de nota fiscal).
+
+- Experiência comprovada com **Flutter**, atuando na migração de app Android nativo (Java/Kotlin) para Flutter na MarketUP (plataforma recomendada pelo SEBRAE).
+- Experiência comprovada com **React Native** e **Android nativo** no setor financeiro regulado (Autbank), desenvolvendo funcionalidades críticas com alto impacto em negócio e compliance.
+- Atuação em equipes ágeis (**Scrum/Kanban**) com entregas contínuas, pair programming e code review colaborativo.
 
 <br />
 
-:point_down: **Contact Me!**
+:point_down: **Conecte-se comigo no Linkedin!**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-dadalto)](https://www.linkedin.com/in/beatriz-dadalto)
 
