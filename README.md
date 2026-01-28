@@ -19,11 +19,25 @@
 
 #### Experiências
 
-Tenho 2 anos de experiência como desenvolvedora Mobile em aplicações complexas do setor financeiro (compliance, transações de alto valor, LGPD, regras de negócio) e SaaS empresarial (gestão financeira, PDV, vendas, emissão de nota fiscal).
+Desenvolvedora Flutter com 2 anos de experiência em aplicações complexas do setor financeiro (compliance, transações de alto valor, LGPD, regras de negócio) e SaaS (gestão financeira, PDV, nota fiscal). Forte atuação em Flutter com foco em MVVM, arquitetura limpa, gerenciamento de estado, persistência de dados, integração com APIs e testes automatizados, garantindo performance, manutenção, qualidade de código e boa experiência do usuário.
 
-- Experiência comprovada com **Flutter**, atuando na migração de app Android nativo (Java/Kotlin) para Flutter na MarketUP (plataforma recomendada pelo SEBRAE).
-- Experiência comprovada com **React Native** e **Android nativo** no setor financeiro regulado (Autbank), desenvolvendo funcionalidades críticas com alto impacto em negócio e compliance.
-- Atuação em equipes ágeis (**Scrum/Kanban**) com entregas contínuas, pair programming e code review colaborativo.
+#### Principais Competências:
+
+- Flutter (Dart)
+- Desenvolvimento Mobile cross-platform Android / iOS
+- Widgets / componentes UI personalizados
+- Gerenciamento de estado (Bloc, Cubit)
+- Arquitetura MVP, MVVM e Clean Architecture
+- Princípios SOLID, DRY e Clean Code
+- Padrões de projetos
+- Integração com APIs REST (Dio)
+- Persistência de dados (SQLite, Drift, SharedPreferences)
+- Funcionalidades Offline First
+- Formulários dinâmicos e validação
+- Internacionalização (i18n, l10n)
+- Testes unitários e de widget (Flutter Test, Bloc Test, Mocktail)
+- Git, Gitlab, Azure DevOps
+- Metodologias Ágeis (Scrum, Kanban)
 
 <br />
 
