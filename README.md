@@ -10,7 +10,6 @@
 #### Alguns valores que me definem: 
 
 - **Curiosidade, coragem e adaptabilidade.**
-- Gosto de desafios, de aprender e de trabalhar com gente. A TI é onde encontrei um espaço para juntar raciocínio lógico, criatividade e vontade de construir coisas que façam sentido.
 
 #### Fora do trabalho, tenho dois sonhos:<br />
 1. Conhecer cangurus na Austrália. (amo animais e a natureza)
@@ -19,25 +18,9 @@
 
 #### Experiências
 
-Desenvolvedora Flutter com 2 anos de experiência em aplicações complexas do setor financeiro (compliance, transações de alto valor, LGPD, regras de negócio) e SaaS (gestão financeira, PDV, nota fiscal). Forte atuação em Flutter com foco em MVVM, arquitetura limpa, gerenciamento de estado, persistência de dados, integração com APIs e testes automatizados, garantindo performance, manutenção, qualidade de código e boa experiência do usuário.
+Na MarketUP, migrei um app Android nativo (Java/Kotlin) para Flutter com arquitetura multi-módulos e escalável, implementando offline-first com persistência local com SQLite, integrações com APIs REST, gerenciamento de estado (Bloc/Cubit) e internacionalização para expansão internacional, reduzindo em mais de 40% o tempo de manutenção e unificando a base de código mobile para iOS/Android.
 
-#### Principais Competências:
-
-- Flutter (Dart)
-- Desenvolvimento Mobile cross-platform Android / iOS
-- Widgets / componentes UI personalizados
-- Gerenciamento de estado (Bloc, Cubit)
-- Arquitetura MVP, MVVM e Clean Architecture
-- Princípios SOLID, DRY e Clean Code
-- Padrões de projetos
-- Integração com APIs REST (Dio)
-- Persistência de dados (SQLite, Drift, SharedPreferences)
-- Funcionalidades Offline First
-- Formulários dinâmicos e validação
-- Internacionalização (i18n, l10n)
-- Testes unitários e de widget (Flutter Test, Bloc Test, Mocktail)
-- Git, Gitlab, Azure DevOps
-- Metodologias Ágeis (Scrum, Kanban)
+Tenho 2 anos de experiência em desenvolvimento mobile com forte atuação em Flutter, já trabalhei em aplicações complexas do setor financeiro com alto rigor de compliance e segurança, e em SaaS de gestão empresarial recomendado pelo SEBRAE. 
 
 <br />
 
