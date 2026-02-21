@@ -11,16 +11,22 @@
 
 - **Curiosidade, coragem e adaptabilidade.**
 
-#### Fora do trabalho, tenho dois sonhos:<br />
-1. Conhecer cangurus na Austrália. (amo animais e a natureza)
-2. Ir ao Wacken - maior festival de heavy metal do mundo na Alemanha (estou aprendendo alemão por causa disso).
+#### Fora do trabalho, tenho 1 sonho:<br />
+1. Ir ao Wacken - maior festival de heavy metal do mundo na Alemanha (estou aprendendo alemão por causa disso).
 <br />
 
 #### Experiências
 
-Na MarketUP, migrei um app Android nativo (Java/Kotlin) para Flutter com arquitetura multi-módulos e escalável, implementando offline-first com persistência local com SQLite, integrações com APIs REST, gerenciamento de estado (Bloc/Cubit) e internacionalização para expansão internacional, reduzindo em mais de 40% o tempo de manutenção e unificando a base de código mobile para iOS/Android.
+Desenvolvedora Mobile com experiência em aplicações reais dos setores:
+- Financeiro — transações de alto valor, compliance e LGPD.
+- Varejo — gestão financeira, PDV, vendas e emissão de Nota Fiscal.
 
-Tenho 2 anos de experiência em desenvolvimento mobile com forte atuação em Flutter, já trabalhei em aplicações complexas do setor financeiro com alto rigor de compliance e segurança, e em SaaS de gestão empresarial recomendado pelo SEBRAE. 
+Na MarketUP (SaaS/SEBRAE), participei da migração de funcionalidades Android nativo para Flutter em produto SaaS, trabalhando com Clean Architecture multi-módulos, Bloc/Cubit, offline-first, integrações com APIs REST e testes automatizados em ambiente ágil com Scrum e code review.
+
+Na Autbank (mercado financeiro), atuei como  desenvolvedora React Native implementando 
+regras de negócio para pagamentos de alto valor (acima de R$250 mil), horário de corte e 
+expiração de QR Code dinâmico, e consumi APIs REST com Axios para exibição 
+de informações de boleto, Pix e transferências, garantindo integração segura com o backend bancário.
 
 <br />
 
