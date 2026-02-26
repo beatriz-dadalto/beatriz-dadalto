@@ -1,13 +1,12 @@
 
 ### Oi, eu sou a Bia!
 
-#### Sobre mim
+## Curiosidades sobre mim
 
 - Ex-jogadora de Rugby pelo Alto Tietê Rugby - lá aprendi trabalho em equipe, responsabilidade e disciplina, valores que carrego para a TI.
 - Já cursei Educação Física e cheguei a dar aulas para crianças.
-- Também cursei Design de Moda e, enquanto aprendia a fazer roupas, vendia as peças no Mercado Livre. Foi uma experiência prática com empreendedorismo e marketing: lidar com clientes, montar anúncios, responder dúvidas, precificar, testar, errar, ajustar e tentar de novo. Essa vivência me ensinou a ser mais criativa, autônoma e focada em resultados.
 
-#### Alguns valores que me definem: 
+#### Valores que me identifico: 
 
 - **Curiosidade, coragem e adaptabilidade.**
 
@@ -15,18 +14,88 @@
 1. Ir ao Wacken - maior festival de heavy metal do mundo na Alemanha (estou aprendendo alemão por causa disso).
 <br />
 
-#### Experiências
+## PORTFÓLIO:
 
-Desenvolvedora Mobile com experiência em aplicações reais dos setores:
-- Financeiro — transações de alto valor, compliance e LGPD.
-- Varejo — gestão financeira, PDV, vendas e emissão de Nota Fiscal.
 
-Na MarketUP (SaaS/SEBRAE), participei da migração de funcionalidades Android nativo para Flutter em produto SaaS, trabalhando com Clean Architecture multi-módulos, Bloc/Cubit, offline-first, integrações com APIs REST e testes automatizados em ambiente ágil com Scrum e code review.
+*   **App Flutter Listagem de Assinaturas (Empiricus):** Um projeto prática implementado com Clean Architecture, BLoC, GetIt, testes abrangentes e consumo de API, demonstrando minha capacidade de criar código escalável e modular com fácil manutenção.
+    *   [https://github.com/beatriz-dadalto/flutter-subscriptions-clean-arch-dio-bloc-getit-mocktail-tests](https://github.com/beatriz-dadalto/flutter-subscriptions-clean-arch-dio-bloc-getit-mocktail-tests)
 
-Na Autbank (mercado financeiro), atuei como  desenvolvedora React Native implementando 
-regras de negócio para pagamentos de alto valor (acima de R$250 mil), horário de corte e 
-expiração de QR Code dinâmico, e consumi APIs REST com Axios para exibição 
-de informações de boleto, Pix e transferências, garantindo integração segura com o backend bancário.
+*   **Validação de Senha em Flutter:** Implementação de validação de senha com múltiplos critérios, incluindo criação de componentes, comunicação entre eles e testes unitários e de widgets com alta cobertura.
+    *   [https://github.com/beatriz-dadalto/academiaDoFlutter-RodrigoRahman/tree/main/implementation-hub/password_validation](https://github.com/beatriz-dadalto/academiaDoFlutter-RodrigoRahman/tree/main/implementation-hub/password_validation)
+ 
+*   **Portfólio UX/UI - APP Gritou, Lembrei (Behance):** Projeto real onde apliquei Double Diamond, entrevistas, personas, jornada do cliente, UI e testes de usabilidade, demonstrando minha visão em design de produto e experiência do usuário.
+    *   [https://www.behance.net/gallery/144487587/UXUI-Alimento-APP-Gritou-Lembrei](https://www.behance.net/gallery/144487587/UXUI-Alimento-APP-Gritou-Lembrei)
+
+<br />
+
+## Experiências
+
+**Desenvolvedora Mobile** com foco em **Flutter** e base sólida em Android Nativo (Kotlin/Java), com experiência em aplicações dos setores:
+
+1. Financeiro — transações de alto valor e LGPD.
+2. Varejo — PDV, vendas e emissão de Nota Fiscal.
+
+Na MarketUP (SaaS/SEBRAE), participei da migração de funcionalidades de módulos de vendas e emissão de Nota Fiscal de **Android Nativo para Flutter** trabalhando com **Clean Architecture, multi-módulos, Bloc/Cubit**, persistência de dados com **SQLite** para offline-first, integrações com **APIs REST** e **testes** automatizados em ambiente ágil com **Scrum** e **code review**.
+
+Na Autbank **(mercado financeiro)**, atuei como desenvolvedora React Native (TypeScript/JavaScript) implementando regras de negócio para **pagamentos** de alto valor (acima de R$250 mil), horário de corte e expiração de QR Code dinâmico, e consumi **APIs REST** com Axios para **exibição de informações de boleto, Pix e transferências**, garantindo integração segura com o backend bancário.
+
+Além do código, investi em uma formação de Growth e Marketing para desenvolver visão orientada a produto e negócio.
+
+• Desenvolvi familiaridade com métricas como CAC, LTV, ROI, NPS, retenção e engajamento, e busco sempre ouvir PO, design e negócio para alinhar o desenvolvimento com o que realmente importa para o usuário e para o sucesso do produto.
+
+
+### HABILIDADES TÉCNICAS:
+
+Mobile:
+- Flutter (Dart)
+- Conhecimento de Android Nativo (Kotlin/Java)
+
+Gerenciamento De Estado:
+- Bloc/Cubit
+- Provider
+- ChangeNotifier
+- ValueNotifier
+- setState
+
+Arquitetura:
+- Clean Architecture
+- MVVM
+- MVP
+- camadas (presentation/domain/data)
+- Repository
+- Injeção de Dependência (GetIt, Flutter Modular)
+
+Padrões De Design E Boas Praticas:
+- SOLID, DRY, Clean Code
+- Factory, Adapter, Singleton, Observer
+
+Integração/APIs:
+- Consumo de APIs REST com Dio
+- Swagger
+- Postman
+
+Testes:
+- Unitários e de widgets - UI, com Bloc Test, Mocktail, Flutter Test
+
+Navegação:
+- Go Router
+- Deeplinks
+- Navigator
+
+Persistência De Dados:
+- SQLite
+- SharedPreferences
+- Flutter Secure Storage
+
+Ferramentas:
+- Git, GitHub, Gitlab, Azure DevOps
+- Debug, Flutter DevTools, Figma, VS Code, Android Studio, XCode
+
+Processos:
+- Metodologias ágeis (Scrum, Kanban)
+- Code review
+
+
 
 <br />
 
@@ -62,11 +131,6 @@ de informações de boleto, Pix e transferências, garantindo integração segur
 
 <br />
 
-**Top Programming Languages I Work**
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz-dadalto&layout=compact&theme=radical" title="Linguagens mais utilizadas" alt="Linguagens mais utilizadas" />
-
-<br />
 
 
 
