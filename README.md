@@ -130,7 +130,10 @@ Processos:
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
 <br />
+<br />
 
 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz-dadalto&layout=compact&theme=radical" title="Linguagens mais utilizadas" alt="Linguagens mais utilizadas" />
 
 
